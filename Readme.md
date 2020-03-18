@@ -2,7 +2,7 @@
 
 ## Слайды
 
-Скоро будут на speakerdeck
+<https://speakerdeck.com/hellsquirrel/wasm-101>
 
 ## Начинаем знакомиться с wasm
 
