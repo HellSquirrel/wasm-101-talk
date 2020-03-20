@@ -1,5 +1,7 @@
 # Материалы к докладу wasm-101
 
+[Видео](https://youtu.be/3Yy_YUTZxe4?t=5570)
+
 ## Слайды
 
 <https://speakerdeck.com/hellsquirrel/wasm-101>
