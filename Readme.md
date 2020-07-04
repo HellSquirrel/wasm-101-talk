@@ -1,6 +1,6 @@
 # Материалы к докладу wasm-101
 
-[Видео](https://youtu.be/3Yy_YUTZxe4?t=5570)
+[Видео](https://youtu.be/8MOZ44j_zFw)
 
 ## Слайды
 
